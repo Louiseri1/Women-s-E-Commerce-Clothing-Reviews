@@ -2,12 +2,14 @@
 Sentiment Analysis and Prediction using the Kaggle 'Women's E-Commerce Clothing Reviews' Dataset
 
 Overview
+
 This project is a work on NLP application. It aims to analyze an anonymized Kaggle dataset on Women’s Clothing E-Commerce Reviews.
 Goals
 Exploration and visualization of the data
 Sentiment Analysis and Predictions with Machine Learning and Deep Learning models
 Context - Data
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
+
 Content
 
 This dataset includes 23486 rows and 10 feature variables. Each row corresponds to a customer review, and includes the variables:
